@@ -18,18 +18,6 @@ require_once('class.jabber.php');
 	    <title>Jabber - roster import/export</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		   
-		<style type="text/css">
-
-body { background: #eee; color: #333; font-family: verdana, helvetica, sans-serif; font-size: 12px }
-h1,h2,h3 { border-bottom: solid 2px #666;}
-h1 { font-size: 150% }
-h2 { font-size: 130% }
-h3 { font-size: 120% }
-input, textarea { border: solid 1px #666; margin: 4px; padding: 2px}
-input.submit { background: #f66; font-weight: bold; }
-p.footer { font-size: 10px; color: #999; margin-top: 10px; border-top: solid 1px #999; }
-p.footer a { color: #99f; }
-		</style>
 	</head>
 
 <body>
